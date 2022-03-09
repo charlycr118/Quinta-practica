@@ -1,0 +1,93 @@
+/*
+Unidades absolutas
+1.- IN = 2.54cm
+2.- cm
+3.- mm
+4.- pt = 0.35mm
+5.- pc = 4.23mm
+
+Unidades relativas
+1.- px
+2.- em     1em = 16px
+3.- ex
+4.- rem (root em)
+5.- porcentaje
+
+The Garden Company
+Helping you help you gardens grow since 1975
+
+Welcome to The Garden Company! We hope you will find out site a useful resource for becoming a better gardener
+
+Recent Articles
+Diagnosis foliage problems
+Spraying techniques for fruit trees
+
+Glosary of terms
+HTML Version
+Equipment
+Spraying
+Mixing
+Cleanup
+Microsoft Word Version - (Download free Word viewer)
+Glosary of terms
+Copyright 2012 The Garden Company
+
+No material may be reproduced without written permision
+
+Contact the WeMaster
+
+*/
+
+.box{
+    width: 33.3%;
+    height: 50px;
+    padding: 10px;
+    border: solid black 5px;
+}
+
+.box1{
+    background-color: aqua;
+}
+
+.box2{
+    background-color: blue;
+}
+
+.box3{
+    background-color: blueviolet;
+}
+
+img {
+    float: left;
+}
+
+h1{
+    color: red;
+}
+
+h3{
+    font-weight: lighter;
+    font-style: oblique;
+    font-size: 18px;
+}
+
+hr{
+    clear: both;
+    border: solid green 2px;
+    background-color: green;
+}
+
+.pad{
+    padding-bottom: 10px;
+}
+
+#ArtRec{
+    color: red;
+    font-weight: bold;
+    font-size: 20px;    
+}
+
+li{
+    white-space: normal;
+}
+
